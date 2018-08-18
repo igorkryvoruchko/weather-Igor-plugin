@@ -1,0 +1,13 @@
+li {
+    list-style-type: none; /* Убираем маркеры */
+   }
+
+.weather_title {
+	text-align: center;
+	color: green;
+}
+
+.weather_box {
+	padding-left: 30px;
+}
+
